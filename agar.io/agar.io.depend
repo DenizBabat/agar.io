@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1442507295 source:c:\users\deniz\desktop\agar.io\main.cpp
+	<iostream>
+	<ctime>
+	<allegro5\allegro.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	"object.h"
+
+1442507467 c:\users\deniz\desktop\agar.io\object.h
+
+1442504286 source:c:\agar.io\main.cpp
+	<iostream>
+	<ctime>
+	<allegro5\allegro.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	"object.h"
+
+1442503867 c:\agar.io\object.h
+
+1442504286 source:d:\games\agar.io\main.cpp
+	<iostream>
+	<ctime>
+	<allegro5\allegro.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	"object.h"
+
+1442503867 d:\games\agar.io\object.h
+
+1442507886 source:g:\games\agar.io\main.cpp
+	<iostream>
+	<ctime>
+	<allegro5\allegro.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	"object.h"
+
+1442507467 g:\games\agar.io\object.h
+
